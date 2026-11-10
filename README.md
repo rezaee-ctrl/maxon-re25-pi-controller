@@ -18,14 +18,13 @@ A comprehensive MATLAB & Simulink repository dedicated to the modeling, PI contr
 
 ## 📂 Repository Structure
 
-maxon-re25-pi-controller/
-│
-├── assets/             # Simulation output plots, scope captures, and system response charts
-├── docs/               # Technical notes, design calculations, and project reports
-├── scripts/            # MATLAB initialization and parameter tuning scripts
-├── simulink/           # Simulink model files (.slx)
-├── LICENSE             # MIT Open Source License
-└── README.md           # Project documentation
+- `maxon-re25-pi-controller/`
+  - `assets/` — Simulation output plots, scope captures, and system response charts
+  - `docs/` — Technical notes, design calculations, and project reports
+  - `scripts/` — MATLAB initialization and parameter tuning scripts
+  - `simulink/` — Simulink model files (.slx)
+  - `LICENSE` — MIT Open Source License
+  - `README.md` — Project documentation
 
 ---
 
